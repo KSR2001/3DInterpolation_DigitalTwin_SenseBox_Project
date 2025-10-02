@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: 27dd8024245554f4eac54079e29e1202
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.001
+    second: {fileID: 2100000, guid: 62ec068535d3bbc45b637188f2bfb1ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.002
+    second: {fileID: 2100000, guid: 3ead6ff3698b784449cc001bbff00928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.003
+    second: {fileID: 2100000, guid: 039c7ff8d79080144862e509049cb61d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.004
+    second: {fileID: 2100000, guid: 0a29fe2b1f8e40a45a2fa9b243d88790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.005
+    second: {fileID: 2100000, guid: 51ceea068b43ef343ae0021f9ea4324c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.006
+    second: {fileID: 2100000, guid: 725ec152bfbdd4440bb9e78525abce37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.007
+    second: {fileID: 2100000, guid: 22c400a6491615649a9ef6e49dd01fcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.008
+    second: {fileID: 2100000, guid: 916d8ab71cb4f5943b3825e12bce53ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.009
+    second: {fileID: 2100000, guid: 4e4a49ca2bde6bf4aa4c5429a12326aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.010
+    second: {fileID: 2100000, guid: 587194f782755fa4197391730e22a81e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.011
+    second: {fileID: 2100000, guid: e07639ae43790e6449ceb8b06aa2488e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.012
+    second: {fileID: 2100000, guid: ccf0578dca512cd49be7bf2e5367ea22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.013
+    second: {fileID: 2100000, guid: 135798ba54407974da02d8587a566e8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.014
+    second: {fileID: 2100000, guid: cf8348b205a15e04d8dd2b5c47daa57a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.015
+    second: {fileID: 2100000, guid: 0fd39bf64102e6e45beb960a87ef5ae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.016
+    second: {fileID: 2100000, guid: fb55f07b4aaaab74c9e4f76c11e96b10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.017
+    second: {fileID: 2100000, guid: 90660a2c1a86e0d4bb963a36374c9e06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.018
+    second: {fileID: 2100000, guid: 802b001d010270a43a8e252bb29a171b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.019
+    second: {fileID: 2100000, guid: 2a268e0af93835d4a91df3908abf571b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.020
+    second: {fileID: 2100000, guid: b47629e9670ccee43af6a5970de049e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.021
+    second: {fileID: 2100000, guid: 8e11b33e4596d32488b7f06e929186d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.022
+    second: {fileID: 2100000, guid: d2a2e3c2c31dabb4c87a71113c70aaec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.023
+    second: {fileID: 2100000, guid: 16b8eca3fc5c2454ab165a9e83923c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.024
+    second: {fileID: 2100000, guid: 6a5816e5b007d544690a96a2d9a44242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.025
+    second: {fileID: 2100000, guid: bbb53f3cab0b4d842ae05bdc49dc845d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.026
+    second: {fileID: 2100000, guid: a093ac6f6d8897d49808586e589591ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.027
+    second: {fileID: 2100000, guid: 06504877895b7ad4688ff285c96240c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.028
+    second: {fileID: 2100000, guid: 4a1bf9e21e1964f43876b18d1ad6a8e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.029
+    second: {fileID: 2100000, guid: e15d99a7d648fa8498d955202f90c193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.030
+    second: {fileID: 2100000, guid: 2a41a1a75b67c694c87bf00e4b812669, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.031
+    second: {fileID: 2100000, guid: 6cdf8eee9e3b0eb409943758a39c2c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.032
+    second: {fileID: 2100000, guid: a97e8e326b859c9488ff076df7ff7b2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.033
+    second: {fileID: 2100000, guid: 8be26665bea220444bec1a8ea6469b50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.034
+    second: {fileID: 2100000, guid: 8b3c16dbe2a28e94aa4e389319985868, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.035
+    second: {fileID: 2100000, guid: e3de7d74b2015fe41bb1f2fdf63062c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.036
+    second: {fileID: 2100000, guid: d8ef4f555a082ef49ae905384ff1d87c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.037
+    second: {fileID: 2100000, guid: a53a2eee33f80564fb7711b4391c950f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.038
+    second: {fileID: 2100000, guid: f57d51658b3ae1b4b962176a90687b29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.039
+    second: {fileID: 2100000, guid: a5a9fed193141784c93ef61bde536ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.040
+    second: {fileID: 2100000, guid: 576603b2c15588a41b80218712cefac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.041
+    second: {fileID: 2100000, guid: b50225a6fa51fce4882cd5fdd6aa565b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.042
+    second: {fileID: 2100000, guid: 92b5ede4ff2accd4fae241b6e98182af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.043
+    second: {fileID: 2100000, guid: 7664c6710f8310b4c9ee09fb54aa2add, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.044
+    second: {fileID: 2100000, guid: 9c0a1c1e193a34741bf2962102cbd9a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.045
+    second: {fileID: 2100000, guid: 4842c29560da71e4bb0c63808a7290eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.046
+    second: {fileID: 2100000, guid: 48bacb622fa009c498d990ccb8792fbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.047
+    second: {fileID: 2100000, guid: bc288c0ed4986bb4cbcd957f729dd68c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.048
+    second: {fileID: 2100000, guid: 564da492e1748ba41ba91762ca1b34fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.049
+    second: {fileID: 2100000, guid: 5bcc8a060fe7d62419178e9f23b0d3ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.050
+    second: {fileID: 2100000, guid: 313cc2035e211824c83f68adf579bfae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.051
+    second: {fileID: 2100000, guid: 9e1d4d7fe52c0ca4a947fa3193d6f6b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.052
+    second: {fileID: 2100000, guid: e9ceea8fcba04924ea8b260e079bf301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.053
+    second: {fileID: 2100000, guid: 7a527c5194929ae44b8ed777407aa111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.054
+    second: {fileID: 2100000, guid: 92aa95849cfb9d04892254fd022e082e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.055
+    second: {fileID: 2100000, guid: 579f772e7195f5f419bc3ed3b816b201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.056
+    second: {fileID: 2100000, guid: e7cbae2173846a240b4fea04ff5e4c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.057
+    second: {fileID: 2100000, guid: 625a2f8d5244f9940ba1e0a66ad2435c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.058
+    second: {fileID: 2100000, guid: 0a9f9f5a66900294e90c817ad493fe11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.059
+    second: {fileID: 2100000, guid: b6fa63a146fa88d448ca9611133beade, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.060
+    second: {fileID: 2100000, guid: c462d6bfb92c47e42973580f26a6e252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.061
+    second: {fileID: 2100000, guid: 3faa0c95449186a4a9b127b1ff4eb52a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.062
+    second: {fileID: 2100000, guid: afd115ab46c95544884589992814a155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.063
+    second: {fileID: 2100000, guid: 092b4fff8912db341a358a6ca6a3dceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.064
+    second: {fileID: 2100000, guid: 5c9fa068ef6d0d94c9090d4fa171d1a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.065
+    second: {fileID: 2100000, guid: 383996657225746498191d4d575b466a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.066
+    second: {fileID: 2100000, guid: badc6774ebd4af54bb7217d302805dfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.067
+    second: {fileID: 2100000, guid: 7267e620e0b052d40a6e4504a85121ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.068
+    second: {fileID: 2100000, guid: c7746c1745be3d343bb142dcbbef9f87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.069
+    second: {fileID: 2100000, guid: 1549efe611e104b42b57e740777db41b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.070
+    second: {fileID: 2100000, guid: 5546ce1a072a0964e843fd035f84412e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.071
+    second: {fileID: 2100000, guid: d7d70dc0bfc9ac541aad09345117a149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.072
+    second: {fileID: 2100000, guid: 41c0686185525264581eb3d682e5ce2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.073
+    second: {fileID: 2100000, guid: bb04dd42e4ce66c44becfaf7140d02bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.074
+    second: {fileID: 2100000, guid: c3c00871bd513a54c9e3bb59954e0106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.075
+    second: {fileID: 2100000, guid: 588864957900fb249b0d9eef3eb88340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.076
+    second: {fileID: 2100000, guid: dd838482660d9d54dbc542033aac1779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.077
+    second: {fileID: 2100000, guid: e3ad7f1aeb04b0141be5e12cfdd1af70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.078
+    second: {fileID: 2100000, guid: 8bf42bd6d0ce7d9439128ddd38f575e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.079
+    second: {fileID: 2100000, guid: f0000896b3fc309418a4e4a5f345390b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.080
+    second: {fileID: 2100000, guid: 2f3c60beb03e92145a46cb5f35b35b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.081
+    second: {fileID: 2100000, guid: c1a817a3ea9ae3345ae75ebfdcee745e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.082
+    second: {fileID: 2100000, guid: 0dae424d56c5f994db3b9686ebbfaa74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.083
+    second: {fileID: 2100000, guid: ceaa5d49ec66c7a4ba398d1c99b0c8e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.084
+    second: {fileID: 2100000, guid: e8e5be80922a79f4cab647b2ec056d5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.085
+    second: {fileID: 2100000, guid: 95a48685f616193478dda982c033e502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.086
+    second: {fileID: 2100000, guid: f37701dedb3d23b4685e2a4cf1d86ca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.087
+    second: {fileID: 2100000, guid: 3460eea3fca140b4086fb70e16980304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.088
+    second: {fileID: 2100000, guid: 493068d6db32bd744bc154e0ca8f4cc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.089
+    second: {fileID: 2100000, guid: 1daac62261f46fd4d9fe48c8239e3de5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.090
+    second: {fileID: 2100000, guid: 4cc7fbd44c0496f48bccf2e9b46b1365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.091
+    second: {fileID: 2100000, guid: 7ba8e1561694beb44ba149f71c835500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.092
+    second: {fileID: 2100000, guid: ddd68bb9c7879314683cc1e392f73ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.093
+    second: {fileID: 2100000, guid: 4288e3be83d2e17429b4d6e2de90d9d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.094
+    second: {fileID: 2100000, guid: 5feb8098c2211dd478e77f63c778c88c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.095
+    second: {fileID: 2100000, guid: a09f95f80946d144b832e1961b8653de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.096
+    second: {fileID: 2100000, guid: 4c87fd38f530aaa449233eb83612c791, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.097
+    second: {fileID: 2100000, guid: ac79d8f132f5c0a4eb8ef68b6b9fe790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.098
+    second: {fileID: 2100000, guid: 817c0c3f1ab76894e87c5df01456f2de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.099
+    second: {fileID: 2100000, guid: e0525bd26ac15b54eaff87d57f3d7963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.100
+    second: {fileID: 2100000, guid: 8971349c338c0a74d9c1ecfdd9672dd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.101
+    second: {fileID: 2100000, guid: b4e22b56e293fd14c9eaf6f06a799e28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.102
+    second: {fileID: 2100000, guid: f5d0023d9e76c834dbca88b5eec1bb8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.103
+    second: {fileID: 2100000, guid: c3219af21fd0bd249891e6159cce29ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.104
+    second: {fileID: 2100000, guid: f68a3f99c549a52488cbbaf65da65f13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.105
+    second: {fileID: 2100000, guid: 9cd8527afc19099439f398ce7207f3cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.106
+    second: {fileID: 2100000, guid: 13b00b2ef74b0c5449971734c4be5ac0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.107
+    second: {fileID: 2100000, guid: 7f264d16bf225994fb9425cb831c8275, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.108
+    second: {fileID: 2100000, guid: ed5e112640c730a49bb025b2168a1da9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.109
+    second: {fileID: 2100000, guid: 40de5716518ea964b8206dab1e1e883d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.110
+    second: {fileID: 2100000, guid: c35b391646b8b8b479f88b486c436b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.111
+    second: {fileID: 2100000, guid: 3f6eaa49b1b4a0546be7c203e4674017, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.112
+    second: {fileID: 2100000, guid: ef0f7c8584408dc4daaf568db5d79ae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.113
+    second: {fileID: 2100000, guid: 851c3ac7ce3371f408c45fbdd60933e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.114
+    second: {fileID: 2100000, guid: 7c8461e39f4659f40af752ea8f57911a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.115
+    second: {fileID: 2100000, guid: acba3e054807fce4799af3cd56b42819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.116
+    second: {fileID: 2100000, guid: c5b6af189f1e498418c6788db102dd8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.117
+    second: {fileID: 2100000, guid: 5be5632e3c1c6a845a4d4011295a09a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.118
+    second: {fileID: 2100000, guid: d375cecc0907a434dad68ce0aa48d798, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.119
+    second: {fileID: 2100000, guid: b0d14ac5c7db28146972f3704d535c2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.120
+    second: {fileID: 2100000, guid: 9f6edf6d1f9716a4bbf02226634dd399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.121
+    second: {fileID: 2100000, guid: 367246295a2bb864f9b18f3f180b6be9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.122
+    second: {fileID: 2100000, guid: 43875d333dd41fe47ad74b10574c8a19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.123
+    second: {fileID: 2100000, guid: f4ba05105c550014fb895038407af36d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.124
+    second: {fileID: 2100000, guid: c3d883737c6927a4083b3c3d1e64992b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.125
+    second: {fileID: 2100000, guid: 9c774c99e9ce3a149ba39df7b799ee64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.126
+    second: {fileID: 2100000, guid: 9323d3b5f3be0bb4dbc7cd026330420d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.127
+    second: {fileID: 2100000, guid: 5add40c57686c874e8926ebf1a4a08d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.128
+    second: {fileID: 2100000, guid: 6e1d8480e807ee3488ba9c1bbb07c1f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.129
+    second: {fileID: 2100000, guid: 3f6da23f0cf59564188b54a636ff9512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.130
+    second: {fileID: 2100000, guid: 0010cd9b196fdbf4096982dabd264a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.131
+    second: {fileID: 2100000, guid: 5568b9eadfc395347b4022c498027826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.132
+    second: {fileID: 2100000, guid: e9d09181bfa414a4ea68bda60daa3024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.133
+    second: {fileID: 2100000, guid: 873ef50f1222cbd49ba44383c0a2bddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.134
+    second: {fileID: 2100000, guid: 394ea90d4ac3cf6418db687f9a4fae3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.135
+    second: {fileID: 2100000, guid: 442a5a3826b302148a065ec4e5df43f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.136
+    second: {fileID: 2100000, guid: aa20a09f561d2b84d99ac2dd7955ba1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.137
+    second: {fileID: 2100000, guid: a465e74e56301e846ae4567c5a4f8594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.138
+    second: {fileID: 2100000, guid: 6aecb4d1deeffd046bd6ab8b1f3613b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.139
+    second: {fileID: 2100000, guid: c0990c596490b78459c9ebfe956097cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.140
+    second: {fileID: 2100000, guid: 0322cfff8050f1f40b9d446b9c1aebf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.141
+    second: {fileID: 2100000, guid: f5f9f29451296354899c1c93093891e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.142
+    second: {fileID: 2100000, guid: 39b8786933882144b804a7756b3e7401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.143
+    second: {fileID: 2100000, guid: 5136005837ffcf142b27954317b7d929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.144
+    second: {fileID: 2100000, guid: 48e0a00df3d6adc47a7df450b3d3dd6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.145
+    second: {fileID: 2100000, guid: 83d8abd356979e64790f7a83994b6b35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.146
+    second: {fileID: 2100000, guid: 7eb52da04fb8fbe4d8227ef64c02407d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.147
+    second: {fileID: 2100000, guid: d98bcd223bbe2444b896d5c59955af12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.148
+    second: {fileID: 2100000, guid: 11f4fa59f9290084c8861cc3ddfc96a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.149
+    second: {fileID: 2100000, guid: 48b7f69bc4bfdf347a0000cf0fb378f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.150
+    second: {fileID: 2100000, guid: bc3c720b8135dfa4b911d0e757c2712a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.151
+    second: {fileID: 2100000, guid: e99ab35f4d3fd9d499277ac173e525c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.152
+    second: {fileID: 2100000, guid: 98d3058ed7418f3448bd3f78f7ed291f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.153
+    second: {fileID: 2100000, guid: 78c52b5115855a948a3aa855919fc2bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.154
+    second: {fileID: 2100000, guid: a28a409a6cff92d4bac5bc371f9bee11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.155
+    second: {fileID: 2100000, guid: c25ecb1d428ad3d4ea8ffec52a10163e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.156
+    second: {fileID: 2100000, guid: 156fefa2ae1528d4a9be7042620b873e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.157
+    second: {fileID: 2100000, guid: b03607e5f81250b499456f7113cb9bb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.158
+    second: {fileID: 2100000, guid: 372414718ed7d104dbc4a4d011ca91e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.159
+    second: {fileID: 2100000, guid: aa3a44b2d79ec0b4d8a201aa7311dc83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.160
+    second: {fileID: 2100000, guid: 8ac18b922811ac9428d17c1cacba6e5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.161
+    second: {fileID: 2100000, guid: f255b554bf0960b41872342ee7ce9185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.162
+    second: {fileID: 2100000, guid: c37d044c18e533f4ab6a10b03a17c496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.163
+    second: {fileID: 2100000, guid: 9ca0e7746b5e0e5418906b4e3b1ea7e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.164
+    second: {fileID: 2100000, guid: d904fc61f4459934fa05a37c5d8e3a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.165
+    second: {fileID: 2100000, guid: 151d5a6d73bb75440890ce6ce86df116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.166
+    second: {fileID: 2100000, guid: bec7e9d23bdbdff478b972a5be94b2be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.167
+    second: {fileID: 2100000, guid: 88bcbe9f244b7a64e9486471c452a415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.168
+    second: {fileID: 2100000, guid: da919240c90125e46b49d292e9105ca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.169
+    second: {fileID: 2100000, guid: 3b64bd1d6f310bc4d95704c12ececc07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.170
+    second: {fileID: 2100000, guid: 6b01c1908c7221d4cb4bbe66e183ec3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.171
+    second: {fileID: 2100000, guid: f59875c16aabf474bbc698a93b22f25c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.172
+    second: {fileID: 2100000, guid: 55fee67e5cccceb43be2cdeb162c6835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.173
+    second: {fileID: 2100000, guid: 5be0b14f72248be498f8825b8072ee39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.174
+    second: {fileID: 2100000, guid: 437befe1666ce7b488c5948c34220758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.175
+    second: {fileID: 2100000, guid: cb1fce58687173a468389695c4247d87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.176
+    second: {fileID: 2100000, guid: fe79ccdc488f6b14c9304cb43140eb8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.177
+    second: {fileID: 2100000, guid: 7b42fbdb688ff9b41863149351fab99a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material for Export.178
+    second: {fileID: 2100000, guid: fa2e52a701bbcfe4499178d2cb21fdef, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
