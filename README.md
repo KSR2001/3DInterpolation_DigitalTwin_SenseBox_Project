@@ -74,4 +74,4 @@ You may **not copy, modify, distribute, or use** this code or assets without exp
 ---
 
 ## Contact
-For questions or collaboration, contact: **[Your Name / Email]**
+For questions or collaboration, contact: **[Kuldeep Singh]**
