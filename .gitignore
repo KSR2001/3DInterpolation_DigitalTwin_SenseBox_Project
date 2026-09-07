@@ -46,3 +46,22 @@
 *.aab
 *.unitypackage
 *.app
+
+
+# Secrets and local credentials
+.env
+.env.*
+secrets.h
+secrets.json
+credentials.h
+credentials.json
+wifi_secrets.h
+config.local.h
+
+# Private keys and credential containers
+*.key
+*.pem
+*.p12
+*.pfx
+*.keystore
+*.jks
